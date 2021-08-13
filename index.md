@@ -16,13 +16,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+![image](https://user-images.githubusercontent.com/88896071/129382861-c1f26b91-a1c1-441b-9467-ea317e65eabf.png)
+
 # Header 1
 ## Header 2
 ### Header 3
 
 - Bulleted
 - List
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 1. Numbered
 2. List
 
