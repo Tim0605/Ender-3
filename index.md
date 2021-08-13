@@ -1,13 +1,12 @@
 # **DISCLAIMER! This is just a test**
 
-To start coding please download VS-Code from the official webiste [here](https://code.visualstudio.com/)
+To start coding please download VS-Code from the official webiste [here](https://code.visualstudio.com/).
+
+![Image](https://images.prismic.io/launchdarkly/ZWQ2YzRhNTItYzg4Ny00NjA0LWI0NzItZWI5Mzg5ZDc3NDIy_visualstudio_code-card.png?auto=compress%2Cformat&rect=0%2C0%2C480%2C240&w=2000&h=1000)
+Source: https://launchdarkly.com/blog/launched-version-2-of-the-launchdarkly-visual-studio-code-extension/
 You can use the [editor on GitHub](https://github.com/Tim0605/Ender-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
- 
-![image](https://github.com/Tim0605/Ender-3/blob/gh-pages/Zusammenbau_Reagenzglas_2021-Jul-26_08-59-42PM-000_CustomizedView12756245466.png?raw=true)
 
 ### Markdown
 
@@ -15,8 +14,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-
 
 # Header 1
 ## Header 2
@@ -32,12 +29,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tim0605/Ender-3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
