@@ -1,4 +1,4 @@
-## Welcome to GitHub
+## Welcome to GitHub Pages
 
 #**DISCLAIMER! This is just a test**
 
