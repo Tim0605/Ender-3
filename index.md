@@ -4,11 +4,6 @@
 
 To start coding please download VS-Code from the official webiste [here](https://code.visualstudio.com/).
 
-![Image](https://images.prismic.io/launchdarkly/ZWQ2YzRhNTItYzg4Ny00NjA0LWI0NzItZWI5Mzg5ZDc3NDIy_visualstudio_code-card.png?auto=compress%2Cformat&rect=0%2C0%2C480%2C240&w=2000&h=1000)
-Source: https://launchdarkly.com/blog/launched-version-2-of-the-launchdarkly-visual-studio-code-extension/
-
-
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
