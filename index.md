@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/Tim0605/Ender-3/edit/gh-pa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-```![Image].(https://user-images.githubusercontent.com/88896071/129382861-c1f26b91-a1c1-441b-9467-ea317e65eabf.png)``` 
+ 
 
 
 ### Markdown
@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 1. Numbered
 2. List
 
