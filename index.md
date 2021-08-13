@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-#**DISCLAIMER! This is just a test**
+# **DISCLAIMER! This is just a test**
 
 You can use the [editor on GitHub](https://github.com/Tim0605/Ender-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
