@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/Tim0605/Ender-3/edit/gh-pa
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
  
-
+![image](https://github.com/Tim0605/Ender-3/blob/gh-pages/Zusammenbau_Reagenzglas_2021-Jul-26_08-59-42PM-000_CustomizedView12756245466.png?raw=true)
 
 ### Markdown
 
@@ -16,7 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-![image](https://github.com/Tim0605/Ender-3/blob/gh-pages/Zusammenbau_Reagenzglas_2021-Jul-26_08-59-42PM-000_CustomizedView12756245466.png?raw=true)
+
 
 # Header 1
 ## Header 2
