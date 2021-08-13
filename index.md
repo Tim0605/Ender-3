@@ -4,7 +4,8 @@ To start coding please download VS-Code from the official webiste [here](https:/
 
 ![Image](https://images.prismic.io/launchdarkly/ZWQ2YzRhNTItYzg4Ny00NjA0LWI0NzItZWI5Mzg5ZDc3NDIy_visualstudio_code-card.png?auto=compress%2Cformat&rect=0%2C0%2C480%2C240&w=2000&h=1000)
 Source: https://launchdarkly.com/blog/launched-version-2-of-the-launchdarkly-visual-studio-code-extension/
-You can use the [editor on GitHub](https://github.com/Tim0605/Ender-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -33,3 +34,5 @@ Syntax highlighted code block
 ### Support or Contact
 
 Having trouble with Page? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+You can use the [editor on GitHub](https://github.com/Tim0605/Ender-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
